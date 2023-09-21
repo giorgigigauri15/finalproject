@@ -1,0 +1,136 @@
+@media (max-width: 868px){
+    .main_header{
+        padding: 26px 40px;
+    }
+    .latest_Products_section {
+        padding: 60px 0;
+    }
+    .newsletter_section {
+        height: 280px;
+    }
+    .questions_section {
+        padding: 60px ;
+    }
+    .main_footer{
+        text-align: center;
+        flex-direction: column;
+        row-gap: 60px;
+    }
+    .search_form{
+        width: 400px;
+    }
+
+    
+    
+    
+
+}
+
+
+
+@media (max-width: 768px) {
+   
+    .navigation{
+        width: 30%;
+        top: 86px;
+    }
+    .wrap_on_mobile{
+        flex-wrap: wrap;
+        margin: 0 15px;
+    }
+    .logo_img{
+        width: 90px;
+    }
+    .fa-bars, .fa-xmark{
+        font-size: 30px;
+    }
+    
+  
+    .header_h1{
+        font-size: 32px;
+    }
+    
+    .services_section{
+        flex-direction: column;
+    }
+
+    .gallery_div{
+        flex-direction: column;
+    }
+    
+    .info_div{
+        text-align: center;
+        flex-direction: column;
+    }
+    .questions_section_header2 {
+        text-align: center;
+        font-size: 32px;
+    }
+
+   
+    .search_form{
+        width: 300px;
+    }
+    .all_category_title{
+        font-size: 32px;
+    }
+    .section_category {
+        padding: 64px 20px;
+    }
+
+    
+    .input_section_page3 {
+        padding: 200px 20px;
+    }
+
+}
+
+@media (max-width: 420px){
+    .main_footer{
+        padding: 32px 40px;
+    }
+    .newsletter_input{
+        padding: 10px;
+    }
+    .newsletter_input::placeholder{
+        font-size: 10px;
+    }
+    .newsletter_email_button{
+        font-size: 10px;
+    }
+
+    .questions_section_header{
+        text-align: center;
+    }
+
+    .card_row1{
+        gap: 20px;
+    }
+
+    .section2_cover{
+        padding: 0 10px;
+    }
+    .cover_button{
+        width: 200px;
+    }
+    .all_category_sort_button{
+        font-size: 13px;
+    }
+    .all_category_title {
+        font-size: 26px;
+    }
+   
+    
+    .input_section3_title{
+        font-size: 32px;
+    }
+    .map_div{
+        width: 100%;
+    }
+}
+
+@media (max-width: 413px){
+    .navigation{
+        top: 105px;
+    }
+}
